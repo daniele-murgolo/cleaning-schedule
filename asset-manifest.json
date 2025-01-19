@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cleaning-schedule/static/css/main.10d0131d.css",
+    "main.js": "/cleaning-schedule/static/js/main.40eb7acb.js",
+    "static/js/453.cd00872d.chunk.js": "/cleaning-schedule/static/js/453.cd00872d.chunk.js",
+    "index.html": "/cleaning-schedule/index.html",
+    "main.10d0131d.css.map": "/cleaning-schedule/static/css/main.10d0131d.css.map",
+    "main.40eb7acb.js.map": "/cleaning-schedule/static/js/main.40eb7acb.js.map",
+    "453.cd00872d.chunk.js.map": "/cleaning-schedule/static/js/453.cd00872d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d0131d.css",
+    "static/js/main.40eb7acb.js"
+  ]
+}
